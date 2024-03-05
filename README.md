@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Bárbara Bruna D'Áustole Gelape
 * Nome completo do aluno 2
 * Geocacio Viviano Nascimento de Souza
-* Nome completo do aluno 4
+* João Victor Dias Lopes
 * Nome completo do aluno 5
 
 ## Orientador
